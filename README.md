@@ -1,6 +1,15 @@
 # Conversor de Monedas
 
+![Conversor de Monedas](https://ibb.co/yFQ0g6W)
+
 Este es un proyecto de conversor de monedas que permite a los usuarios convertir entre diferentes pares de monedas, como Dólares estadounidenses (USD), Pesos argentinos (ARS), Reales brasileños (BRL) y Euros (EUR). El programa utiliza la API de ExchangeRate para obtener las tasas de cambio más recientes.
+
+## Funcionalidades
+
+- **Conversión de Monedas:** Convierte entre diferentes pares de monedas, incluyendo USD, ARS, BRL, y EUR.
+- **Interfaz de Menú:** El programa presenta un menú interactivo para seleccionar pares de monedas y convertir.
+- **API de ExchangeRate:** Utiliza la API de ExchangeRate para obtener tasas de cambio actualizadas.
+- **Escalable:** Fácil de modificar para admitir más pares de monedas en el futuro.
 
 ## Requisitos
 
@@ -35,7 +44,13 @@ Puedes descargar el repositorio de GitHub utilizando `git` desde la línea de co
 - Asegúrate de tener una conexión a Internet activa para que el programa pueda obtener las tasas de cambio de la API.
 - Si experimentas problemas al usar el programa, verifica que tu clave API sea válida y esté configurada correctamente en el código.
 
+## Autores
 
-## Contacto
+- **Fernando Marson** - [LinkedIn](https://www.linkedin.com/in/fernando-marson-dev/) - fernando.marson@example.com
 
-Si tienes alguna pregunta o comentario sobre el proyecto, no dudes en contactarme a través de GitHub o por Linkedin "fernando-marson-dev/"
+## Contribuciones
+
+Si deseas contribuir a este proyecto, no dudes en crear una solicitud de extracción (pull request) o abrir un problema (issue) en el repositorio de GitHub.
+
+¡Gracias por visitar y utilizar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros.
+
