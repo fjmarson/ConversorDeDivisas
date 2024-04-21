@@ -1,6 +1,5 @@
 # Conversor de Monedas
 
-https://ibb.co/yFQ0g6W
 
 Este es un proyecto de conversor de monedas que permite a los usuarios convertir entre diferentes pares de monedas, como Dólares estadounidenses (USD), Pesos argentinos (ARS), Reales brasileños (BRL) y Euros (EUR). El programa utiliza la API de ExchangeRate para obtener las tasas de cambio más recientes.
 
